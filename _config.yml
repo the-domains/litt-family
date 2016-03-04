@@ -1,14 +1,29 @@
+name: Litt Family
+favicon: null
 layout_spectrum: 0.2529538
+typography_spectrum: 0
+title: The Litt Family
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8931257
-  brandStrength: 0.7053038
-  lightness: 0.840494
-  rhythmicContrast: 0.6364124
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0
-name: Litt Family
+  brandStrength: 0.7053038
+  lightness: 0.840494
+  saturation: 0.8931257
+  rhythmicContrast: 0.6364124
+purpose: []
